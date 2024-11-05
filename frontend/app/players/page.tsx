@@ -1,8 +1,7 @@
-export default function Home() {
+export default function Players() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1>FootPie</h1>
-      <p>Home page</p>
+      <h1>This is the players page</h1>
     </main>
   );
 }
